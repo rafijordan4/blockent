@@ -1,0 +1,13 @@
+{
+  "id": "blockent",
+  "title": "BlockEnt",
+  "author": "Rafi",
+  "description": "Gabungan Bedrock Block + Bedrock Entity. Buat model & texture seperti biasa, ditambah Display Settings (posisi di tangan, GUI, ground, item frame, dll) dan Animation Manager terintegrasi.",
+  "icon": "extension",
+  "version": "1.0.0",
+  "min_version": "5.1.0",
+  "variant": "both",
+  "tags": ["Minecraft: Bedrock Edition", "Block", "Entity", "Animation"],
+  "creation_date": "2026-06-17",
+  "source": "blockent.js"
+}
